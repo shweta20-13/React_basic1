@@ -3,6 +3,7 @@ function Hero(){
         <main className="hero1 container">
             <div className="hero-content">
                 <h1>YOUR FEET DESERVES THE BEST</h1>
+                <h2>Hieeeee....</h2>
                 <p>YOUR FEET DESERVES THE BEST AND WERE HERE TO HELP YOU
                     WITH OUT SHOES.YOUR FEET DESERVES THE BEST AND WERE 
                     HERE TO HELP YOU WITH OUR SHOES.
@@ -14,6 +15,7 @@ function Hero(){
                 </div>
                 <div className="Shopping">
                     <p>ALSO AVAILABLE ON</p>
+                    <h3>M AVAILABLE HERE..</h3>
                     <div className="Brand-icons">
                         <img src='/img/flipkart.jfif'></img>
                         <img src='/img/amazon.png'></img>
